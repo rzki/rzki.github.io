@@ -1,8 +1,4 @@
 @charset "UTF-8";
-@import "w3.css";
-@import "fade.css";
-@import "flip.css";
-@import "slide.css";
 
 /*!
 * Start Bootstrap - Freelancer v7.0.2 (https://startbootstrap.com/theme/freelancer)
@@ -3961,6 +3957,7 @@ textarea.form-control-lg {
   flex-wrap: inherit;
   align-items: center;
   justify-content: space-between;
+  overflow: hidden;
 }
 .navbar-brand {
   padding-top: 0.3125rem;
