@@ -1,5 +1,4 @@
 @charset "UTF-8";
-
 /*!
 * Start Bootstrap - Freelancer v7.0.2 (https://startbootstrap.com/theme/freelancer)
 * Copyright 2013-2021 Start Bootstrap
@@ -3945,7 +3944,6 @@ textarea.form-control-lg {
   justify-content: space-between;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  width: 100vw;
 }
 .navbar > .container,
 .navbar > .container-fluid,
