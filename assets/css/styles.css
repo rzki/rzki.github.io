@@ -11055,10 +11055,6 @@ html {
   background-color: #1a252f;
 }
 
-.html, .css, .js, .php {
-  text-align: center;
-  font-size: 1rem !important;
-}
 .footer-links{
   list-style-type: none;
   text-align: justify;
